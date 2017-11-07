@@ -1,3 +1,11 @@
+ul{
+	list-style-type: none;
+
+}	
+	
+
+
+
 p, li {
 	color: orange;
 	text-align: left;
