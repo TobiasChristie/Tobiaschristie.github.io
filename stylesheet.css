@@ -2,12 +2,13 @@ ul{
 	list-style-type: none;
 	 margin: 0;
     	padding: 0;
-	background-color: lightgrey; 
+	
 }	
 	
 li a {
-    display: block;
-    width: 60px;
+   	background-color: lightgrey; 
+	display: block;
+    	width: 60px;
 }
 
 
