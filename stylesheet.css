@@ -3,7 +3,7 @@ html{
 }
 
 body{
-   background-image: url (https://ak8.picdn.net/shutterstock/videos/1937878/thumb/1.jpg?i10c=img.resize(height:160));
+   background-image: url("https://ak8.picdn.net/shutterstock/videos/1937878/thumb/1.jpg?i10c");
    background-postion: center center;
    background-size: cover;
 }
